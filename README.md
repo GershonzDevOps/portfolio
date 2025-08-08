@@ -12,8 +12,9 @@ I design, build, and automate secure, scalable infrastructure on AWS. I focus on
 - **Version Control**: Git & GitHub (branching, PR reviews)
 
 ## 🚀 Featured Projects
-> https://github.com/GershonzDevOps/aws-vpc-terraform.
-> https://github.com/GershonzDevOps/aws-ci-cd-pipeline.
+> https://github.com/GershonzDevOps/version-control.
+> https://github.com/GershonzDevOps/terraform-collab-cluster.
+> https://github.com/GershonzDevOps/cloud.
 > https://github.com/GershonzDevOps/ecs-docker-app
 
 
