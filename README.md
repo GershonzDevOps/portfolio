@@ -19,7 +19,7 @@ I design, build, and automate secure, scalable infrastructure on AWS. I focus on
 
 
 - **Terraform AWS VPC** — Public/private subnets, NAT gateway, route tables, flow logs; modular Terraform with variables & outputs.  
-  👉 https://github.com/GershonzDevOps/aws-vpc-terraform
+  👉 https://github.com/GershonzDevOps/terraform-collabcluster
 
 - **AWS CI/CD Pipeline** — GitHub → CodePipeline/CodeBuild → ECS; buildspec, artifacts, environment-driven deploys.  
   👉 https://github.com/GershonzDevOps/aws-ci-cd-pipeline
