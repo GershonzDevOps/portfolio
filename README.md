@@ -33,7 +33,7 @@
 
 ---
 
-### ⚙️ AWS CI/CD Pipeline
+### ⚙️ AWS CI/CD Pipeline (GitHub → ECS Automation)
 
 **Automated deployment pipeline from GitHub to ECS**
 
