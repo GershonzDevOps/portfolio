@@ -36,6 +36,29 @@ I focus on Infrastructure as Code, CI/CD pipelines, and production-ready systems
 - Integrated GitHub as source
 - Automated container deployment to ECS
 
+![ECS CI/CD Architecture](diagrams/ecs-cicd-architecture.png)
+
+### 🔄 How It Works
+
+1. Code is pushed to GitHub
+2. CodePipeline triggers automatically
+3. CodeBuild builds Docker image
+4. Image is pushed to ECR
+5. ECS pulls image and deploys container
+6. ALB routes traffic to ECS
+7. CloudWatch monitors logs and metrics
+
+### 🛠️ Tools & Services Used
+
+- AWS CodePipeline
+- AWS CodeBuild
+- Amazon ECR
+- Amazon ECS (Fargate)
+- Application Load Balancer (ALB)
+- Amazon CloudWatch
+- Docker
+- GitHub
+
 🔗 https://github.com/GershonzDevOps/aws-ci-cd-pipeline
 
 ---
