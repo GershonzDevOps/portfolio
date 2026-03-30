@@ -10,7 +10,7 @@
 
 ## ⚡ Core Skills
 
-- ☁️ **Cloud:** AWS (EC2, S3, VPC, IAM, CloudWatch, CloudFront, ECS)
+- ☁️ **AWS: EC2, S3, VPC, IAM, CloudWatch, CloudFront, ECS, ECR, CodePipeline, CodeBuild
 - 🏗 **IaC:** Terraform (modules, workspaces), CloudFormation (basics)
 - 🐳 **Containers:** Docker, Amazon ECS/ECR
 - 🔄 **CI/CD:** GitHub Actions, AWS CodePipeline & CodeBuild
@@ -21,7 +21,8 @@
 
 ## 🚀 Featured Projects
 
-### 🌐 Terraform AWS VPC
+### 🌐 Produced-Ready AWS VPC with Terraform
+
 **Provisioned a production-ready VPC with public/private subnets**
 
 - Created modular Terraform architecture
@@ -33,11 +34,13 @@
 ---
 
 ### ⚙️ AWS CI/CD Pipeline
+
 **Automated deployment pipeline from GitHub to ECS**
 
 - Built CI/CD using CodePipeline & CodeBuild
 - Integrated GitHub as source
 - Automated container deployment to ECS
+- Reduced manual deployment effort by automating build and deployment pipeline usuing AWS services
 
 ![ECS CI/CD Architecture](diagrams/ecs-cicd-architecture.png)
 
@@ -62,7 +65,7 @@
 - Docker
 - GitHub
 
-🔗 https://github.com/GershonzDevOps/aws-ci-cd-pipeline
+🔗 🔗 View Project: https://github.com/GershonzDevOps/aws-ci-cd-pipeline
 
 ---
 
