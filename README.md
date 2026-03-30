@@ -1,7 +1,10 @@
 # 👋 Gershon Zormelo — Cloud & DevOps Engineer
 
-🚀 I design, build, and automate secure, scalable cloud infrastructure on AWS.  
-I focus on Infrastructure as Code, CI/CD pipelines, and production-ready systems.
+🚀 I design, build, and automate secure, scalable cloud infrastructure on AWS using Infrastructure as Code and CI/CD pipelines.  
+
+💡 Hands-on experience deploying containerized applications with ECS, automating delivery pipelines with CodePipeline & CodeBuild, and implementing monitoring with CloudWatch.  
+
+🎯 Focused on building production-ready, highly available, and cost-efficient systems.
 
 ---
 
